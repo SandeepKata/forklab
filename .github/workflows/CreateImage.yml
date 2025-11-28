@@ -1,7 +1,6 @@
 name: Create Image
 
 on:
-  name: Create Image
   workflow_dispatch:
   pull_request:
     types: [ closed ]
